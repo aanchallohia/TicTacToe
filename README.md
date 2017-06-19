@@ -1,2 +1,3 @@
 # Android Studio Project for TicTacToe
-# Created by Aanchal Lohia 
+ My First Android Game
+ Created by Aanchal Lohia 
